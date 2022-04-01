@@ -1,0 +1,7 @@
+maria;5;com;7;2;6;1
+joao;5;eng;6;2;5;1
+paulo;4;com;4;3;3;2
+ana;2;dir;7;3;6;3
+pedro;5;eng;2;3;3;3
+clara;1;dir;5;1;4;1
+lucas;8;dir;1;1;7;1
